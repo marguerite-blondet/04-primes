@@ -21,7 +21,7 @@ def isprime(p):
 def main():
     """
     Programme principal
-    Appelle la fonction secondaire isprime
+    Appel la fonction secondaire isprime
     """
         # Affiche les nombres premiers de 0 à 99
     for n in range(100):
